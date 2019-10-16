@@ -1,6 +1,6 @@
 {
-  "name": "npm-hello-world",
-  "version": "1.0.0",
+  "name": "@ebaker/npm-hello-world",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
